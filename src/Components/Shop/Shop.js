@@ -68,7 +68,7 @@ const Shop = () => {
             </Link>
                 </Cart>
             </div>
-
+               
         </div>
     );
 };

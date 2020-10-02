@@ -9,6 +9,7 @@
 .product-title{
     color: blue;
     font-weight: 400;
+    
 }
 .cart-btn{
     background-color: goldenrod;
@@ -23,4 +24,5 @@
     background-color:green;
     color: white;
     transition: .5s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
